@@ -1,4 +1,5 @@
 Collaborators:<br>
+<a href="https://github.com/codingassistance/ScholarPath">Vaishnavi Shet</a><br>
 <a href="https://github.com/Vandanaprabhu7/scholarpath">Vandana Prabhu</a><br>
 
 
