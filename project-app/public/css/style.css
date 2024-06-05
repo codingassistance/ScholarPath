@@ -1,0 +1,24 @@
+/* Custom CSS */
+.carousel-caption.custom-caption {
+    position: absolute;
+    top: 20%;
+    left: 10%;
+    text-align: left;
+}
+
+@media (max-width: 768px) {
+    .carousel-caption.custom-caption {
+        top: 40%;
+        left: 10%;
+        text-align: center;
+    }
+
+    .apply-process .process-item {
+        margin-bottom: 20px;
+    }
+
+    .about-details .left, .about-details .right {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+}
