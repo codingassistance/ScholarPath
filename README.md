@@ -3,7 +3,11 @@ Collaborators:<br>
 <a href="https://github.com/Vandanaprabhu7/scholarpath">Vandana Prabhu</a><br>
 
 
-https://github.com/user-attachments/assets/87e40fa4-3afb-41c1-89fa-ba0aba2440fc
+
+https://github.com/user-attachments/assets/14dbf1bc-f05f-4492-b519-a12b9220a8df
+
+
+
 
 
 
